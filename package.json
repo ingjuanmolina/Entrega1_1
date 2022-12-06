@@ -9,7 +9,7 @@
   "author": "Juan Carlos Molina ing.jcmolina@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.18.2",
     "yargs": "^13.2.4"
   }
 }
